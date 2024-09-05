@@ -11,6 +11,10 @@ The primary goal of this project is to analyze the sales data of Starducks Coffe
 - Store sales analysis
 - Peak sales hours and time-based trends
 
+## Dashboard Preview
+
+![Dashboard Preview](screenshots/excel_cf_sales.png)
+
 ## Key Insights
 
 ### 1. Monthly Sales Trends
