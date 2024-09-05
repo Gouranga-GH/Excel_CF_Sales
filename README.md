@@ -1,4 +1,4 @@
-# Starducks Coffee Sales Dashboard
+# Starducks Coffee Sales Dashboard Using MS-Excel
 
 Welcome to the **Starducks Coffee Sales Dashboard** project! This project provides key insights into the monthly sales trends, product category performance, and store performance of Starducks Coffee across different locations. The dashboard is designed to help identify areas of improvement and strategic growth opportunities for the business.
 
